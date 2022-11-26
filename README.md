@@ -2,7 +2,7 @@
 <hr>
 
 - 🧑‍🎓 介绍：大四学生，热爱编程、喜欢动手实现小想法，目前正在实习阶段
-- 📃 博客：<a href="https://blog.csdn.net/Gaowumao?type=blog">关于19线程序员小博主的个人博客</a>
+- 📃 博客：<a href="https://blog.csdn.net/Gaowumao?type=blog">CSDN个人技术分享</a> | <a href="https://juejin.cn/user/1469371468221047">掘金</a>
 - 🌱 干货：<a href="https://pdxjie.github.io/translate.github.io/assets/img/wechat.dc667eaa.png">公众号『派大星不是程序员』</a>
 - 📌 作品：<a href="http://www.json-sql.online/">多功能SQL生成器</a> | <a href="https://github.com/pdxjie/sql-translate">开源项目 | 求星星⭐️</a>
 - 💬 微信：pdx_jie（来由请备注）
