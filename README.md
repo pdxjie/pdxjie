@@ -8,10 +8,10 @@
 - 💬 微信：pdx_jie（来由请备注）
 
 ### 访问人数
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) 
 
 ### 数据汇报
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxjie&show_icons=true&theme=tokyonight)<br>
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxjie&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdxjie&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 pdxjie/pdxjie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
