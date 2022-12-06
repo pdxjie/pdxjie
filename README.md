@@ -11,8 +11,8 @@
  ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) 
 
 ### 数据汇报
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxjie&show_icons=true&bg_color=30,ff5f6d,ffc371&locale=cn&card_width=470)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdxjie&layout=compact&bg_color=30,ff5f6d,ffc371&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxjie&show_icons=true&bg_color=30,ff5f6d,ffc373&locale=cn&card_width=470)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdxjie&layout=compact&bg_color=30,ff5f6d,ffc373&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 pdxjie/pdxjie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
