@@ -4,7 +4,7 @@
 - 🧑‍🎓 介绍：大四学生，热爱编程、喜欢通过实践验证自己的想法
 - 📃 博客：<a href="https://blog.csdn.net/Gaowumao?type=blog">CSDN个人技术分享</a> | <a href="https://juejin.cn/user/1469371468221047">掘金</a>
 - 🌱 干货：<a href="https://pdxjie.github.io/translate.github.io/assets/img/wechat.dc667eaa.png">公众号『派大星不是程序员』</a>
-- 📌 作品：<a href="http://www.json-sql.online/">多功能SQL生成器</a> | <a href="https://github.com/pdxjie/sql-translate">开源项目 | 求星星⭐️</a>
+- 📌 作品：<a href="http://www.json-sql.online/">多功能SQL生成器</a> | <a href="https://github.com/pdxjie/low-code">低代码生成器</a> | <a href="https://github.com/pdxjie">开源项目 | 求星星⭐️</a>
 
 ### 访问人数
  ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) 
