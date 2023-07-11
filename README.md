@@ -1,4 +1,4 @@
-### Hi,there ⭐
+### Hi,there 👋
 <hr>
 
 - 👨‍🎓 介绍：CSDN小博主一枚，热爱编程、喜欢动手实现自己的奇怪小想法
@@ -10,9 +10,16 @@
 ### 访问人数
  ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) 
 
-### 数据汇报
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdxjie&show_icons=true&bg_color=30,ff5f6d,ffc373&locale=cn&card_width=470)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdxjie&layout=compact&bg_color=30,ff5f6d,ffc373&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+### 🏗️ 学习状态：
+
+<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
+
+## 今年汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=pdxjie&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdxjie&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
 
 <!---
 pdxjie/pdxjie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
