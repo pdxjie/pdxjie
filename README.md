@@ -2,7 +2,7 @@
 <hr>
 
 - 👨‍🎓 介绍：CSDN小博主一枚，热爱编程、喜欢动手实现自己的奇怪小想法
-- 💻 工作：一家自研公司初级全栈开发攻城狮
+- 💻 工作：一家自研公司全栈开发攻城狮
 - 📃 博客：<a href="https://blog.csdn.net/Gaowumao?type=blog">CSDN个人技术分享</a> | <a href="https://juejin.cn/user/1469371468221047">掘金</a>
 - 🌱 干货：<a href="https://pdxjie.github.io/translate.github.io/assets/img/wechat.dc667eaa.png">公众号『IT 派同学』</a>
 - 📌 作品：<a href="http://www.ai-thesis.cc/dashboard/workplace">Text2SQL(赋能AI, 解放双手)</a> | <a href="https://github.com/pdxjie/sql-translate">多功能SQL生成器</a> | <a href="https://github.com/pdxjie/low-code">低代码生成器</a> | <a href="https://github.com/pdxjie/feature-play/blob/master/asset/code.png">派多宝</a> | <a href="https://resume-online-uzbs.vercel.app/#/resume">艺简</a> | <a href="https://github.com/pdxjie">开源项目 | 求星星⭐️</a>
