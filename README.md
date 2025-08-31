@@ -5,7 +5,7 @@
 - 💻 工作：一家自研公司全栈开发攻城狮
 - 📃 博客：<a href="https://blog.csdn.net/Gaowumao?type=blog">CSDN</a> | <a href="https://juejin.cn/user/1469371468221047">掘金</a>
 - 🌱 干货：<a href="https://pdxjie.github.io/translate.github.io/assets/img/wechat.dc667eaa.png">公众号『IT 派同学』</a>
-- 📌 作品：<a href="https://ai-thesis.cc/ai/write">AI 捣蛋屋</a> | <a href="https://github.com/pdxjie/text2sql-v1.0">Text2SQL(赋能AI, 解放双手)</a> | <a href="https://github.com/pdxjie/sql-translate">多功能SQL生成器</a> | <a href="https://github.com/pdxjie/low-code">低代码生成器</a> | <a href="https://github.com/pdxjie/feature-play/blob/master/asset/code.png">派多宝</a> | <a href="https://resume-online-uzbs.vercel.app/#/resume">艺简</a> | <a href="https://github.com/pdxjie">开源项目 | 求星星⭐️</a>
+- 📌 作品：<a href="https://github.com/pdxjie/text2sql-v1.0">Text2SQL(赋能AI, 解放双手)</a> | <a href="https://github.com/pdxjie/sql-translate">多功能SQL生成器</a> | <a href="https://resume-online-uzbs.vercel.app/#/resume">艺简</a> | <a href="https://github.com/pdxjie">开源项目 | 求星星⭐️</a>
 
 <!--
 ## 访问人数 ⛱️
